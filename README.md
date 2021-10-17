@@ -17,3 +17,5 @@ hub for organization purposes
     RStudio addins.
 -   [emiltemplates](https://github.com/EmilHvitfeldt/emiltemplates):
     Contains my rmd templates.
+-   [hex-stickers](https://github.com/EmilHvitfeldt/r-color-palettes):
+    Contains all my hex sticker designs.
